@@ -1,0 +1,405 @@
+[
+  {
+    text: "What is the purpose of the ngFor directive in Angular?",
+    answers: [
+      "The ngFor directive is used in Angular to iterate over collections and create dynamic HTML content based on the elements of an array or other iterable objects.",
+      "The ngFor directive is unrelated to web development and is used for scientific simulations.",
+      "The ngFor directive is used for configuring network routes in Angular applications.",
+      "The ngFor directive is responsible for optimizing database queries in web development."
+    ]
+  },
+  {
+    text: "What does the JavaScript `bind` method do?",
+    answers: [
+      "Creates a new function that, when called, has its `this` keyword set to a specific value.",
+      "Binds two elements in the DOM together.",
+      "Binds data to a React component.",
+      "Creates a copy of an array with a specific value bound to each element."
+    ]
+  },
+  {
+    text: "Describe Angular's use of observables and the RxJS library.",
+    answers: [
+      "Angular uses observables, powered by the RxJS library, to manage asynchronous data streams and handle events, making it easier to work with real-time data.",
+      "Angular uses observables to manage server hardware resources.",
+      "Angular uses observables for CSS styling in web applications.",
+      "Angular uses observables for server-side rendering of web pages."
+    ]
+  },
+  {
+    text: "What is the difference between class components and functional components in React?",
+    answers: [
+      "Class components are defined using ES6 classes, while functional components are defined using JavaScript functions.",
+      "Class components are used for server-side rendering, and functional components are for client-side rendering.",
+      "Class components are used for handling HTTP requests, and functional components are for database management.",
+      "Class components are responsible for handling user authentication, and functional components are for creating animations."
+    ]
+  },
+  {
+    text: "Explain Angular's role in creating responsive and mobile-friendly web applications.",
+    answers: [
+      "Angular provides features and practices for building responsive and mobile-friendly web applications, including CSS frameworks, media queries, and flexible layout options.",
+      "Angular is not involved in creating responsive web applications.",
+      "Angular is primarily used for developing desktop applications, not web applications.",
+      "Angular is used for managing server hardware resources in web development."
+    ]
+  },
+  {
+    text: "Explain the purpose of Fragments in React.",
+    answers: [
+      "Fragments in React allow you to group multiple children elements without adding extra nodes to the DOM, helping with cleaner and more efficient rendering.",
+      "Fragments are unrelated to web development and are used for network configuration.",
+      "Fragments are used for optimizing server-side code for better performance in React applications.",
+      "Fragments are used for managing server hardware resources in web development."
+    ]
+  },
+  {
+    text: "In TypeScript, what is a discriminated union?",
+    answers: [
+      "A union type that has a common, discriminative property that is used to determine which type in the union is currently in use.",
+      "A type that discriminates between numbers and strings.",
+      "A type used for mapping values to keys in an object.",
+      "A type that can only have two values: true or false."
+    ]
+  },
+  {
+    text: "In JavaScript, what is an immediately-invoked function expression (IIFE)?",
+    answers: [
+      "An IIFE is a JavaScript function that runs as soon as it is defined.",
+      "An IIFE is a function that waits for user input before executing.",
+      "An IIFE is a function that is declared within another function.",
+      "An IIFE is a function that requires an external event to trigger its execution."
+    ]
+  },
+  {
+    text: "What is React Native?",
+    answers: [
+      "React Native is a framework for building native mobile applications using React and JavaScript.",
+      "React Native is a database management system.",
+      "React Native is primarily used for optimizing server-side code for better performance.",
+      "React Native is used for optimizing database queries in web applications."
+    ]
+  },
+  {
+    text: "What is the primary role of Angular services in web development?",
+    answers: [
+      "Angular services play a crucial role in providing shared functionality and data across different parts of an Angular application.",
+      "Angular services are primarily used for styling web applications and managing CSS.",
+      "Angular services are responsible for handling user authentication in web development.",
+      "Angular services are used for managing databases in Angular applications."
+    ]
+  },
+  {
+    text: "What is Angular?",
+    answers: [
+      "A framework for building web applications.",
+      "A programming language for frontend development.",
+      "A lightweight JavaScript library for UI components.",
+      "A design pattern for database management."
+    ]
+  },
+  {
+    text: "Within the Angular framework, what role does a component play?",
+    answers: [
+      "It serves as a foundational element in an Angular application, encompassing HTML templates, a component class, and associated metadata.",
+      "It is an integral aspect of JavaScript used for data manipulation.",
+      "It refers to a specific type of memory storage within a computer.",
+      "It functions as a specialized tool exclusively for managing dependencies in Angular applications."
+    ]
+  },
+  {
+    text: "Explain the concept of Virtual DOM in React.",
+    answers: [
+      "Virtual DOM is a lightweight copy of the actual DOM that React uses to improve performance by minimizing direct manipulation of the real DOM.",
+      "Virtual DOM refers to a 3D modeling technique in web development.",
+      "Virtual DOM is unrelated to web development and is used for scientific simulations.",
+      "Virtual DOM is a cloud computing concept in React applications."
+    ]
+  },
+  {
+    text: "What are React Components?",
+    answers: [
+      "React Components are reusable, self-contained building blocks for user interfaces.",
+      "React Components are database connections in React applications.",
+      "React Components are used to define network routes in React applications.",
+      "React Components are responsible for managing CSS in web development."
+    ]
+  },
+  {
+    text: "Define data binding in Angular.",
+    answers: [
+      "It's a mechanism enabling synchronized data management between the component and the view.",
+      "It pertains to data encryption within Angular applications.",
+      "It involves data compression before rendering in the browser.",
+      "It's a method for data filtration in Angular templates."
+    ]
+  },
+  {
+    text: "Define Angular directives and their significance in web development.",
+    answers: [
+      "Angular directives are markers on DOM elements that instruct Angular to manipulate the DOM or modify the rendering behavior, making them essential for building dynamic templates.",
+      "Angular directives are primarily used for managing user authentication in web applications.",
+      "Angular directives are used for defining database schema in Angular applications.",
+      "Angular directives are responsible for handling HTTP requests in web development."
+    ]
+  },
+  {
+    text: "What is JSX in React?",
+    answers: [
+      "JSX is a syntax extension for JavaScript used in React to define and structure component rendering.",
+      "JSX is a JavaScript library for handling HTTP requests.",
+      "JSX is a programming language for frontend development.",
+      "JSX is a database management system."
+    ]
+  },
+  {
+    text: "What is state in React?",
+    answers: [
+      "State is a built-in object in React used to store and manage component-specific data.",
+      "State is a design pattern for managing database connections.",
+      "State is a framework for handling CSS in React applications.",
+      "State is a package manager for React modules."
+    ]
+  },
+  {
+    text: "In TypeScript, what is an abstract class?",
+    answers: [
+      "An abstract class is a class that cannot be instantiated and is meant to be subclassed.",
+      "An abstract class is a class with a limited number of methods.",
+      "An abstract class is a class used to hide implementation details from the client code.",
+      "An abstract class is a class that only contains abstract methods."
+    ]
+  },
+  {
+    text: "In Angular, what primary function do modules serve?",
+    answers: [
+      "They serve to structure the application into coherent functional units and configure the dependency injector.",
+      "They are responsible for managing HTTP requests within Angular applications.",
+      "They are used to build reusable user interface components.",
+      "They oversee the overall global state management of the application."
+    ]
+  },
+  {
+    text: "What is Redux, and how does it relate to React?",
+    answers: [
+      "Redux is a state management library often used with React to manage the application's state in a predictable and centralized way.",
+      "Redux is a database system commonly used with React applications.",
+      "Redux is a tool for creating animations in React applications.",
+      "Redux is used for database schema definition in React applications."
+    ]
+  },
+  {
+    text: "Explain the concept of two-way data binding in Angular.",
+    answers: [
+      "Two-way data binding in Angular enables automatic synchronization of data between the model and the view, allowing for real-time updates without manual intervention.",
+      "Two-way data binding in Angular is used for establishing network connections in web applications.",
+      "Two-way data binding in Angular is unrelated to web development, primarily used in scientific computing.",
+      "Two-way data binding in Angular is used for creating 3D graphics."
+    ]
+  },
+  {
+    text: "What is server-side rendering (SSR) in React?",
+    answers: [
+      "Server-side rendering in React is the process of rendering React components on the server, sending HTML to the client, and then enhancing it with JavaScript on the client side.",
+      "Server-side rendering is unrelated to web development and is primarily used for network configuration.",
+      "Server-side rendering is used for optimizing server-side code for better performance.",
+      "Server-side rendering is used for managing server hardware resources in web development."
+    ]
+  },
+  {
+    text: "What are controlled and uncontrolled components in React?",
+    answers: [
+      "Controlled components are React components where form elements like input fields are controlled by the component's state. Uncontrolled components, on the other hand, have form elements that are not managed by React state.",
+      "Controlled components are used for handling server-side rendering, while uncontrolled components are used for client-side rendering.",
+      "Controlled components are used for managing HTTP requests, while uncontrolled components are used for database management.",
+      "Controlled components are responsible for handling user authentication, while uncontrolled components are for creating animations."
+    ]
+  },
+  {
+    text: "What is the Angular template syntax used for?",
+    answers: [
+      "Angular template syntax is utilized to define the structure and layout of a component's view, incorporating dynamic data rendering and user interactions.",
+      "Angular template syntax is used for defining the routing configuration in Angular applications.",
+      "Angular template syntax is unrelated to web development and is used for mathematical expressions.",
+      "Angular template syntax is used for creating database schemas."
+    ]
+  },
+  {
+    text: "What is the purpose of the JavaScript `reduce` method?",
+    answers: [
+      "The `reduce` method is used to apply a function against an accumulator and each element in an array (from left to right) to reduce it to a single value.",
+      "The `reduce` method is used to create a new array with all elements that pass a test provided by a callback function.",
+      "The `reduce` method is used to remove elements from an array.",
+      "The `reduce` method is used to sort the elements in an array."
+    ]
+  },
+  {
+    text: "What is dependency injection in Angular?",
+    answers: [
+      "A design pattern used to supply components with the services they need.",
+      "A way to install external libraries in an Angular application.",
+      "A technique for handling user input in Angular forms.",
+      "A mechanism for connecting to remote databases."
+    ]
+  },
+  {
+    text: "What is the purpose of the JavaScript `try...catch` statement?",
+    answers: [
+      "The `try...catch` statement is used for handling exceptions (runtime errors) in JavaScript.",
+      "The `try...catch` statement is used for iterating over arrays.",
+      "The `try...catch` statement is used for defining functions.",
+      "The `try...catch` statement is used for making HTTP requests."
+    ]
+  },
+  {
+    text: "In TypeScript, what is a mapped type?",
+    answers: [
+      "A type that transforms the properties of an existing type into new types based on a mapping function.",
+      "A type used for mapping values to keys in an object.",
+      "A type that allows mapping over arrays.",
+      "A type that maps values from one enum to another."
+    ]
+  },
+  {
+    text: "What is the React Router library used for?",
+    answers: [
+      "The React Router library is used for handling client-side routing and creating single-page applications with multiple views.",
+      "React Router is unrelated to web development and is used for network configuration.",
+      "React Router is primarily used for optimizing server-side code for better performance.",
+      "React Router is used for managing server hardware resources in web development."
+    ]
+  },
+  {
+    text: "What is the result of this expression in JavaScript: 0.1 + 0.2 === 0.3?",
+    answers: [
+      "false",
+      "true"
+    ]
+  },
+  {
+    text: "What is the purpose of a closure in JavaScript?",
+    answers: [
+      "A closure allows a function to maintain access to the variables from its containing (enclosing) function's scope even after the outer function has finished executing.",
+      "A closure prevents a function from accessing variables from its containing function's scope.",
+      "A closure is a way to limit access to certain parts of a program.",
+      "Closures are used for memory management in JavaScript."
+    ]
+  },
+  {
+    text: "Explain the concept of React Hooks.",
+    answers: [
+      "React Hooks are functions that allow you to use state and other React features in functional components.",
+      "React Hooks are tools for creating 3D graphics in React applications.",
+      "React Hooks are unrelated to web development and are used for mathematical expressions.",
+      "React Hooks are used for defining database schema in React applications."
+    ]
+  },
+  {
+    text: "In TypeScript, what is the key difference between `interface` and `type`?",
+    answers: [
+      "Interfaces are open for extension, while type aliases are not.",
+      "Type aliases are open for extension, while interfaces are not.",
+      "They are completely interchangeable and have no key differences.",
+      "Interfaces are used for primitive types, while type aliases are used for custom types."
+    ]
+  },
+  {
+    text: "What is the purpose of decorators in Angular?",
+    answers: [
+      "Decorators in Angular are used to modify or extend the behavior of classes, methods, and properties, enabling the configuration of various elements within the framework.",
+      "Decorators in Angular are primarily used for creating animations and visual effects.",
+      "Decorators in Angular are responsible for managing the application's user interface components.",
+      "Decorators in Angular are used for database schema definition."
+    ]
+  },
+  {
+    text: "What is Angular's role in optimizing web application performance?",
+    answers: [
+      "Angular offers various optimization techniques, including Ahead-of-Time (AOT) compilation, lazy loading, and tree-shakable modules, to enhance web application performance.",
+      "Angular is not involved in optimizing web application performance.",
+      "Angular primarily focuses on optimizing server-side code for better performance.",
+      "Angular is used for optimizing database queries in web applications."
+    ]
+  },
+  {
+    text: "What is React?",
+    answers: [
+      "A JavaScript library for building user interfaces.",
+      "A programming language for web development.",
+      "A framework for developing server-side applications.",
+      "A database management system."
+    ]
+  },
+  {
+    text: "Explain the concept of props in React.",
+    answers: [
+      "Props (short for properties) are a mechanism for passing data from a parent component to a child component in React.",
+      "Props are used for creating animations in React applications.",
+      "Props are a way to define routing configuration in React applications.",
+      "Props are responsible for optimizing database queries in web development."
+    ]
+  },
+  {
+    text: "Explain the concept of routing in Angular applications.",
+    answers: [
+      "Routing in Angular allows you to define navigation paths and views, enabling the creation of single-page applications with multiple views.",
+      "Routing in Angular refers to the process of optimizing the application's build and loading times.",
+      "Routing in Angular is a term unrelated to web development, primarily used in network configuration.",
+      "Routing in Angular pertains to managing HTTP requests within the application."
+    ]
+  },
+  {
+    text: "Explain the concept of HOCs (Higher Order Components) in React.",
+    answers: [
+      "HOCs in React are functions that take a component and return a new component with additional props and behavior, allowing for code reuse and logic sharing.",
+      "HOCs are tools for managing user authentication in React applications.",
+      "HOCs are used for defining database schema in React applications.",
+      "HOCs are responsible for handling HTTP requests in web development."
+    ]
+  },
+  {
+    text: "Explain the concept of React Context.",
+    answers: [
+      "React Context is a feature that allows data to be passed through the component tree without having to pass props manually at every level.",
+      "React Context is unrelated to web development and is used for scientific simulations.",
+      "React Context is used for configuring network routes in React applications.",
+      "React Context is responsible for optimizing database queries in web development."
+    ]
+  },
+  {
+    text: "What is the Angular CLI primarily employed for?",
+    answers: [
+      "It is a command-line utility for generating Angular projects, components, services, and other resources.",
+      "It serves as a framework for producing 3D graphics in Angular applications.",
+      "It is used to manage database connections within Angular applications.",
+      "It functions as a package manager for Angular modules."
+    ]
+  },
+  {
+    text: "What is React Testing Library used for?",
+    answers: [
+      "React Testing Library is a testing utility for React that helps you test your components as users would interact with them.",
+      "React Testing Library is unrelated to web development and is used for scientific simulations.",
+      "React Testing Library is used for configuring network routes in React applications.",
+      "React Testing Library is responsible for optimizing database queries in web development."
+    ]
+  },
+  {
+    text: "What are React lifecycle methods?",
+    answers: [
+      "React lifecycle methods are special methods that automatically get called as your component achieves certain milestones in its lifecycle, like mounting, updating, and unmounting.",
+      "React lifecycle methods are used for creating 3D graphics in React applications.",
+      "React lifecycle methods are unrelated to web development and are used for mathematical expressions.",
+      "React lifecycle methods are used for defining database schema in React applications."
+    ]
+  },
+  {
+    text: "What is TypeScript and how does it relate to Angular?",
+    answers: [
+      "TypeScript enhances Angular with strong typing and more features.",
+      "TypeScript is an alternative to Angular for building web applications.",
+      "TypeScript is not used in Angular development at all.",
+      "TypeScript is a database system commonly used with Angular applications."
+    ]
+  }
+]
